@@ -3,7 +3,7 @@ This is an application written in `Go` (and my first `Go` application) implement
 
 Using this `REST API` you're able to read, write, update and delete documents adhering to the standardized contract document presented below. 
 
-EXPLAIN HOW TO RUN
+EXPLAIN HOW TO RUN, WHICH PORT, ETC.
 ## JSON structures
 This application utilizes the `JSON` format, which is the style data will be in.
 ### Contract Document
